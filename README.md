@@ -1,2 +1,3 @@
 # Bama
 BamaChain
+test
